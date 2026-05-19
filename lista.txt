@@ -1,0 +1,6 @@
+COMPRAS:
+-cebolla
+-papa
+-mayonesa
+-portavasos
+-fosforos
