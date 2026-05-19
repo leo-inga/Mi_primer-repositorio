@@ -4,3 +4,4 @@ COMPRAS:
 -mayonesa
 -portavasos
 -fosforos
+-jugos de manzana
